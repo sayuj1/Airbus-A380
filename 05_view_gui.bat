@@ -1,0 +1,1 @@
+"%NOTEPAD%\notepad++.exe" -multiInst -nosession -ro src/base/PrimaryFlightDisplayGUI.java

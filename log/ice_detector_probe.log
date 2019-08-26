@@ -1,0 +1,770 @@
+2019-08-14 16:03:48 : Database Connection (isClosed): false
+2019-08-14 16:03:48 : sqlStringBuilder = DROP TABLE data
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495766946719100,'IceDetectorProbeFactory','iceDetectorProbeClass: 912417722')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495766959767400,'IceDetectorProbeFactory','iceDetectorProbeInstance: 305206366')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495766963044800,'IceDetectorProbeFactory','iceDetectorProbePort: 749536043')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495766967946100,'IceDetectorProbeFactory','iceDetectorProbeClass: 348712904')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495766968737300,'IceDetectorProbeFactory','iceDetectorProbeInstance: 495359754')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495766969383000,'IceDetectorProbeFactory','iceDetectorProbePort: 700371505')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495767118453200,'IceDetectorProbeFactory','iceDetectorProbeClass: 2118366827')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495767119183900,'IceDetectorProbeFactory','iceDetectorProbeInstance: 1805012091')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495767119681700,'IceDetectorProbeFactory','iceDetectorProbePort: 563569212')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495767121962400,'IceDetectorProbeFactory','iceDetectorProbeClass: 264989510')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495767122439100,'IceDetectorProbeFactory','iceDetectorProbeInstance: 2075194496')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495767122922800,'IceDetectorProbeFactory','iceDetectorProbePort: 759828925')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495767144113200,'IceDetectorProbeFactory','iceDetectorProbeClass: 609182424')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495767144572900,'IceDetectorProbeFactory','iceDetectorProbeInstance: 1741109923')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495767144892000,'IceDetectorProbeFactory','iceDetectorProbePort: 95823837')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495767146651900,'IceDetectorProbeFactory','iceDetectorProbeClass: 1085252123')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495767147031400,'IceDetectorProbeFactory','iceDetectorProbeInstance: 1028760225')
+2019-08-14 16:03:49 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495767147317600,'IceDetectorProbeFactory','iceDetectorProbePort: 1329951383')
+2019-08-14 16:04:01 : *** Cockpit.startup ***
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779801535200,'Cockpit','startup')
+2019-08-14 16:04:01 : + Body.receive(Event: IceDetectorProbeBodyActivate)
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779806688400,'Body','receive(Event: IceDetectorProbeBodyActivate)')
+2019-08-14 16:04:01 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:01 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779808373900,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:01 : +
+2019-08-14 16:04:01 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:01 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779817828600,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:01 : +
+2019-08-14 16:04:01 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): true
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779819103600,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: true')
+2019-08-14 16:04:01 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779820292900,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:01 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:01 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779821438000,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:01 : +
+2019-08-14 16:04:01 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:01 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779822330500,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:01 : +
+2019-08-14 16:04:01 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779823190500,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:01 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779823774200,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:01 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:01 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779824470100,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:01 : +
+2019-08-14 16:04:01 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:01 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779825144200,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:01 : +
+2019-08-14 16:04:01 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779825687100,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:01 : + Body.receive(Event: IceDetectorProbeBodyDeactivate)
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779826586300,'Body','receive(Event: IceDetectorProbeBodyDeactivate)')
+2019-08-14 16:04:01 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:01 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779827485000,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:01 : +
+2019-08-14 16:04:01 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:01 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779828168100,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:01 : +
+2019-08-14 16:04:01 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): false
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779829146500,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: false')
+2019-08-14 16:04:01 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779829945100,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:01 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:01 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779830989400,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:01 : +
+2019-08-14 16:04:01 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:01 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779831624400,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:01 : +
+2019-08-14 16:04:01 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779832224900,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:01 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779832584600,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:01 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:01 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779833386500,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:01 : +
+2019-08-14 16:04:01 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:01 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779833999500,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:01 : +
+2019-08-14 16:04:01 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:01 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495779834436700,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:01 : 
+2019-08-14 16:04:02 : *** Cockpit.taxi ***
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780524755900,'Cockpit','taxi')
+2019-08-14 16:04:02 : + Body.receive(Event: IceDetectorProbeBodyActivate)
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780525522100,'Body','receive(Event: IceDetectorProbeBodyActivate)')
+2019-08-14 16:04:02 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:02 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780526273200,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:02 : +
+2019-08-14 16:04:02 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:02 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780527071500,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:02 : +
+2019-08-14 16:04:02 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): true
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780527690000,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: true')
+2019-08-14 16:04:02 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780528273800,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:02 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:02 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780528902700,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:02 : +
+2019-08-14 16:04:02 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:02 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780529692300,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:02 : +
+2019-08-14 16:04:02 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780530457100,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:02 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780531056800,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:02 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:02 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780531698100,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:02 : +
+2019-08-14 16:04:02 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:02 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780532379200,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:02 : +
+2019-08-14 16:04:02 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780532921600,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:02 : + Body.receive(Event: IceDetectorProbeBodyDeactivate)
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780533426900,'Body','receive(Event: IceDetectorProbeBodyDeactivate)')
+2019-08-14 16:04:02 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:02 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780534018200,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:02 : +
+2019-08-14 16:04:02 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:02 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780534713000,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:02 : +
+2019-08-14 16:04:02 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): false
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780535184200,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: false')
+2019-08-14 16:04:02 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780535530600,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:02 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:02 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780535937000,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:02 : +
+2019-08-14 16:04:02 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:02 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780536420800,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:02 : +
+2019-08-14 16:04:02 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780541772700,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:02 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780542609100,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:02 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:02 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780543401200,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:02 : +
+2019-08-14 16:04:02 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:02 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780544210300,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:02 : +
+2019-08-14 16:04:02 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:02 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495780544772100,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:02 : 
+2019-08-14 16:04:03 : *** Cockpit.takeoff ***
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781404976500,'Cockpit','takeoff')
+2019-08-14 16:04:03 : + Body.receive(Event: IceDetectorProbeBodyActivate)
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781405800900,'Body','receive(Event: IceDetectorProbeBodyActivate)')
+2019-08-14 16:04:03 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:03 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781406635600,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:03 : +
+2019-08-14 16:04:03 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:03 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781407408300,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:03 : +
+2019-08-14 16:04:03 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): true
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781407999400,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: true')
+2019-08-14 16:04:03 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781408605500,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:03 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:03 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781409021100,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:03 : +
+2019-08-14 16:04:03 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:03 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781409415700,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:03 : +
+2019-08-14 16:04:03 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781409718600,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:03 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781410001800,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:03 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:03 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781410368100,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:03 : +
+2019-08-14 16:04:03 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:03 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781410775100,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:03 : +
+2019-08-14 16:04:03 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781411189200,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:03 : + Body.receive(Event: IceDetectorProbeBodyDeactivate)
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781411550300,'Body','receive(Event: IceDetectorProbeBodyDeactivate)')
+2019-08-14 16:04:03 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:03 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781411969000,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:03 : +
+2019-08-14 16:04:03 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:03 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781412386200,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:03 : +
+2019-08-14 16:04:03 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): false
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781412702500,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: false')
+2019-08-14 16:04:03 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781413102300,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:03 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:03 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781413455300,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:03 : +
+2019-08-14 16:04:03 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:03 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781413828800,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:03 : +
+2019-08-14 16:04:03 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781414197300,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:03 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781414455300,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:03 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:03 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781414762300,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:03 : +
+2019-08-14 16:04:03 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:03 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781422321600,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:03 : +
+2019-08-14 16:04:03 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:03 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495781422851100,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:03 : 
+2019-08-14 16:04:04 : *** Cockpit.climbing ***
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782316976400,'Cockpit','climbing')
+2019-08-14 16:04:04 : + Body.receive(Event: IceDetectorProbeBodyActivate)
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782317731400,'Body','receive(Event: IceDetectorProbeBodyActivate)')
+2019-08-14 16:04:04 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:04 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782318374700,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:04 : +
+2019-08-14 16:04:04 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:04 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782319350700,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:04 : +
+2019-08-14 16:04:04 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): true
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782319889600,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: true')
+2019-08-14 16:04:04 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782320446500,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:04 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:04 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782320980600,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:04 : +
+2019-08-14 16:04:04 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:04 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782321266600,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:04 : +
+2019-08-14 16:04:04 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782321495900,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:04 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782321693700,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:04 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:04 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782321976100,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:04 : +
+2019-08-14 16:04:04 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:04 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782322257100,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:04 : +
+2019-08-14 16:04:04 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782322473200,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:04 : + Body.receive(Event: IceDetectorProbeBodyDeactivate)
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782322731300,'Body','receive(Event: IceDetectorProbeBodyDeactivate)')
+2019-08-14 16:04:04 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:04 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782322979400,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:04 : +
+2019-08-14 16:04:04 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:04 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782323268900,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:04 : +
+2019-08-14 16:04:04 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): false
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782323495800,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: false')
+2019-08-14 16:04:04 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782323727500,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:04 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:04 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782324012600,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:04 : +
+2019-08-14 16:04:04 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:04 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782324294200,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:04 : +
+2019-08-14 16:04:04 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782324508000,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:04 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782324715500,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:04 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:04 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782324959100,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:04 : +
+2019-08-14 16:04:04 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:04 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782325232100,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:04 : +
+2019-08-14 16:04:04 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:04 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495782325448600,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:04 : 
+2019-08-14 16:04:05 : *** Cockpit.rightTurn ***
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783192839900,'Cockpit','rightTurn')
+2019-08-14 16:04:05 : + Body.receive(Event: IceDetectorProbeBodyActivate)
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783193694600,'Body','receive(Event: IceDetectorProbeBodyActivate)')
+2019-08-14 16:04:05 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:05 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783200031000,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:05 : +
+2019-08-14 16:04:05 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:05 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783200730700,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:05 : +
+2019-08-14 16:04:05 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): true
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783201225900,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: true')
+2019-08-14 16:04:05 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783201773200,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:05 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:05 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783202384200,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:05 : +
+2019-08-14 16:04:05 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:05 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783203005600,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:05 : +
+2019-08-14 16:04:05 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783203551100,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:05 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783203849900,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:05 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:05 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783204190300,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:05 : +
+2019-08-14 16:04:05 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:05 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783204469400,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:05 : +
+2019-08-14 16:04:05 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783204681900,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:05 : + Body.receive(Event: IceDetectorProbeBodyDeactivate)
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783204926900,'Body','receive(Event: IceDetectorProbeBodyDeactivate)')
+2019-08-14 16:04:05 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:05 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783205185700,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:05 : +
+2019-08-14 16:04:05 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:05 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783205460700,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:05 : +
+2019-08-14 16:04:05 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): false
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783205679900,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: false')
+2019-08-14 16:04:05 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783205899000,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:05 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:05 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783206200500,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:05 : +
+2019-08-14 16:04:05 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:05 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783206516600,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:05 : +
+2019-08-14 16:04:05 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783206747100,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:05 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783206932500,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:05 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:05 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783207180500,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:05 : +
+2019-08-14 16:04:05 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:05 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783207433900,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:05 : +
+2019-08-14 16:04:05 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:05 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495783207642900,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:05 : 
+2019-08-14 16:04:06 : *** Cockpit.leftTurn ***
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784008908100,'Cockpit','leftTurn')
+2019-08-14 16:04:06 : + Body.receive(Event: IceDetectorProbeBodyActivate)
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784009528900,'Body','receive(Event: IceDetectorProbeBodyActivate)')
+2019-08-14 16:04:06 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:06 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784009946500,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:06 : +
+2019-08-14 16:04:06 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:06 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784010397600,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:06 : +
+2019-08-14 16:04:06 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): true
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784010911000,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: true')
+2019-08-14 16:04:06 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784017129500,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:06 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:06 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784017611900,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:06 : +
+2019-08-14 16:04:06 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:06 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784018037200,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:06 : +
+2019-08-14 16:04:06 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784018390700,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:06 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784018726800,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:06 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:06 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784019110600,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:06 : +
+2019-08-14 16:04:06 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:06 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784019532800,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:06 : +
+2019-08-14 16:04:06 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784019853500,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:06 : + Body.receive(Event: IceDetectorProbeBodyDeactivate)
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784020206000,'Body','receive(Event: IceDetectorProbeBodyDeactivate)')
+2019-08-14 16:04:06 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:06 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784020587800,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:06 : +
+2019-08-14 16:04:06 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:06 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784021020000,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:06 : +
+2019-08-14 16:04:06 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): false
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784021365500,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: false')
+2019-08-14 16:04:06 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784021728600,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:06 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:06 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784021941200,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:06 : +
+2019-08-14 16:04:06 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:06 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784022164200,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:06 : +
+2019-08-14 16:04:06 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784022336000,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:06 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784022505600,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:06 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:06 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784022707100,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:06 : +
+2019-08-14 16:04:06 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:06 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784022933700,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:06 : +
+2019-08-14 16:04:06 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:06 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784023107100,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:06 : 
+2019-08-14 16:04:07 : *** Cockpit.descent ***
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784944833400,'Cockpit','descent')
+2019-08-14 16:04:07 : + Body.receive(Event: IceDetectorProbeBodyActivate)
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784945555400,'Body','receive(Event: IceDetectorProbeBodyActivate)')
+2019-08-14 16:04:07 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:07 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784946142400,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:07 : +
+2019-08-14 16:04:07 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:07 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784946768100,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:07 : +
+2019-08-14 16:04:07 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): true
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784947164600,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: true')
+2019-08-14 16:04:07 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784947591500,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:07 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:07 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784948018600,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:07 : +
+2019-08-14 16:04:07 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:07 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784948540800,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:07 : +
+2019-08-14 16:04:07 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784957901700,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:07 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784958219400,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:07 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:07 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784958463500,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:07 : +
+2019-08-14 16:04:07 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:07 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784958765400,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:07 : +
+2019-08-14 16:04:07 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784959036200,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:07 : + Body.receive(Event: IceDetectorProbeBodyDeactivate)
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784959252000,'Body','receive(Event: IceDetectorProbeBodyDeactivate)')
+2019-08-14 16:04:07 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:07 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784959467600,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:07 : +
+2019-08-14 16:04:07 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:07 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784959679800,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:07 : +
+2019-08-14 16:04:07 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): false
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784959864200,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: false')
+2019-08-14 16:04:07 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784960070400,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:07 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:07 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784960284700,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:07 : +
+2019-08-14 16:04:07 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:07 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784960519300,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:07 : +
+2019-08-14 16:04:07 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784960680900,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:07 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784960846100,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:07 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:07 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784961041200,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:07 : +
+2019-08-14 16:04:07 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:07 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784961251900,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:07 : +
+2019-08-14 16:04:07 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:07 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495784961437200,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:07 : 
+2019-08-14 16:04:08 : *** Cockpit.landing ***
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786356903700,'Cockpit','landing')
+2019-08-14 16:04:08 : + Body.receive(Event: IceDetectorProbeBodyActivate)
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786357630200,'Body','receive(Event: IceDetectorProbeBodyActivate)')
+2019-08-14 16:04:08 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:08 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786358084100,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:08 : +
+2019-08-14 16:04:08 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:08 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786358533900,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:08 : +
+2019-08-14 16:04:08 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): true
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786358858700,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: true')
+2019-08-14 16:04:08 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786359244500,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:08 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:08 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786359636600,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:08 : +
+2019-08-14 16:04:08 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:08 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786360037900,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:08 : +
+2019-08-14 16:04:08 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786360357500,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:08 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786361418500,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:08 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:08 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786361837100,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:08 : +
+2019-08-14 16:04:08 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:08 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786369049300,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:08 : +
+2019-08-14 16:04:08 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786369444600,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:08 : + Body.receive(Event: IceDetectorProbeBodyDeactivate)
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786369950000,'Body','receive(Event: IceDetectorProbeBodyDeactivate)')
+2019-08-14 16:04:08 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:08 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786370379400,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:08 : +
+2019-08-14 16:04:08 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:08 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786370807800,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:08 : +
+2019-08-14 16:04:08 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): false
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786371122400,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: false')
+2019-08-14 16:04:08 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786371502900,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:08 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:08 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786371899300,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:08 : +
+2019-08-14 16:04:08 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:08 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786372305300,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:08 : +
+2019-08-14 16:04:08 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786372806700,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:08 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786373771100,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:08 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:08 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786374221200,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:08 : +
+2019-08-14 16:04:08 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:08 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786374688000,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:08 : +
+2019-08-14 16:04:08 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:08 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495786375013300,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:08 : 
+2019-08-14 16:04:09 : *** Cockpit.shutdown ***
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787204652200,'Cockpit','shutdown')
+2019-08-14 16:04:09 : + Body.receive(Event: IceDetectorProbeBodyActivate)
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787205390600,'Body','receive(Event: IceDetectorProbeBodyActivate)')
+2019-08-14 16:04:09 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:09 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787205890300,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:09 : +
+2019-08-14 16:04:09 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:09 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787206333400,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:09 : +
+2019-08-14 16:04:09 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): true
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787206694200,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: true')
+2019-08-14 16:04:09 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787207081300,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:09 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:09 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787207497000,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:09 : +
+2019-08-14 16:04:09 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:09 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787207910600,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:09 : +
+2019-08-14 16:04:09 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787208224600,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:09 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787208532700,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:09 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:09 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787208760900,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:09 : +
+2019-08-14 16:04:09 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:09 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787209053100,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:09 : +
+2019-08-14 16:04:09 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787209211700,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:09 : + Body.receive(Event: IceDetectorProbeBodyDeactivate)
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787209402300,'Body','receive(Event: IceDetectorProbeBodyDeactivate)')
+2019-08-14 16:04:09 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:09 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787214153600,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:09 : +
+2019-08-14 16:04:09 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:09 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787214382200,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:09 : +
+2019-08-14 16:04:09 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): false
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787214575700,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: false')
+2019-08-14 16:04:09 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787214779300,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:09 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:09 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787214974000,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:09 : +
+2019-08-14 16:04:09 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:09 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787215136500,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:09 : +
+2019-08-14 16:04:09 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787215264800,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:09 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787215407500,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:09 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:09 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787215560800,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:09 : +
+2019-08-14 16:04:09 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:09 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787215720100,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:09 : +
+2019-08-14 16:04:09 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:09 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495787215851100,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:09 : 
+2019-08-14 16:04:13 : *** Cockpit.takeoff ***
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791596123100,'Cockpit','takeoff')
+2019-08-14 16:04:13 : + Body.receive(Event: IceDetectorProbeBodyActivate)
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791598353900,'Body','receive(Event: IceDetectorProbeBodyActivate)')
+2019-08-14 16:04:13 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:13 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791598509500,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:13 : +
+2019-08-14 16:04:13 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:13 : isIceDetectorProbeBodyActivated = true
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791598638300,'Body','IceDetector (isIceDetectorProbeBodyActivated): true')
+2019-08-14 16:04:13 : +
+2019-08-14 16:04:13 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): true
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791598726600,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: true')
+2019-08-14 16:04:13 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791598849500,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:13 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:13 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791598964800,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:13 : +
+2019-08-14 16:04:13 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:13 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791599075800,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:13 : +
+2019-08-14 16:04:13 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791599154000,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:13 : + Wing.receive(Event: IceDetectorProbeWingActivate)
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791599235000,'Wing','receive(Event: IceDetectorProbeWingActivate)')
+2019-08-14 16:04:13 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:13 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791599338300,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:13 : +
+2019-08-14 16:04:13 : activateMethod = public boolean IceDetectorProbe$Port.activate()
+2019-08-14 16:04:13 : isIceDetectorProbeWingActivated = true
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791599448000,'Wing','IceDetector (isIceDetectorProbeWingActivated): true')
+2019-08-14 16:04:13 : +
+2019-08-14 16:04:13 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): true
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791599525500,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: true')
+2019-08-14 16:04:13 : + Body.receive(Event: IceDetectorProbeBodyDeactivate)
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791599648500,'Body','receive(Event: IceDetectorProbeBodyDeactivate)')
+2019-08-14 16:04:13 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:13 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791599776900,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:13 : +
+2019-08-14 16:04:13 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:13 : isIceDetectorProbeBodyActivated = false
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791599953000,'Body','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:13 : +
+2019-08-14 16:04:13 : PrimaryFlightDisplay (isIceDetectorProbeBodyActivated): false
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791600042600,'PrimaryFlightDisplay','isIceDetectorProbeBodyActivated: false')
+2019-08-14 16:04:13 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791604810400,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:13 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:13 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791604977700,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:13 : +
+2019-08-14 16:04:13 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:13 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791605099500,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:13 : +
+2019-08-14 16:04:13 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791605173600,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:13 : + Wing.receive(Event: IceDetectorProbeWingDeactivate)
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791605242400,'Wing','receive(Event: IceDetectorProbeWingDeactivate)')
+2019-08-14 16:04:13 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:13 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791605336400,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:13 : +
+2019-08-14 16:04:13 : deactivateMethod = public boolean IceDetectorProbe$Port.deactivate()
+2019-08-14 16:04:13 : isIceDetectorProbeWingActivated = false
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791605443700,'Wing','IceDetectorProbe (isIceDetectorProbeActivated): false')
+2019-08-14 16:04:13 : +
+2019-08-14 16:04:13 : PrimaryFlightDisplay (isIceDetectorProbeWingActivated): false
+2019-08-14 16:04:13 : sqlStringBuilder = INSERT INTO data (id,className,message) VALUES (495791605520000,'PrimaryFlightDisplay','isIceDetectorProbeWingActivated: false')
+2019-08-14 16:04:13 : 

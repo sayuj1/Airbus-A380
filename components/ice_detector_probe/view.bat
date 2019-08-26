@@ -1,0 +1,1 @@
+"%NOTEPAD%\notepad++.exe" -multiInst -nosession -ro  src/IceDetectorProbe.java src/IIceDetectorProbe.java build.xml
