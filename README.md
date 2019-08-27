@@ -5,14 +5,14 @@
 
 
 ## Screenshots 
-* h1
-        <img src="" />
+* Body
+        <img src="https://github.com/sumiie24/Airbus-A380/blob/master/screenshots/body.png" />
 
-* h1
-        <img src="" />
+* Test Procedure
+        <img src="https://github.com/sumiie24/Airbus-A380/blob/master/screenshots/test.png" />
 
-* h1
-        <img src="" />
+* GUI
+        <img src="https://github.com/sumiie24/Airbus-A380/blob/master/screenshots/gui.png" />
 
 
 ## Requirements
