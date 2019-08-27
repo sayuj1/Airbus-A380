@@ -6,7 +6,7 @@ An Ice Detector is an optical transducer probe available for aviation and other 
 
 <img src="https://github.com/sumiie24/Airbus-A380/blob/master/screenshots/airbus_a380.jpg" />
 
-## All components 
+## All components used in building Airbus A380
 <img src="https://github.com/sumiie24/Airbus-A380/blob/master/screenshots/all_components.PNG" />
 
 ## Ice Detector Probe component class diagram
