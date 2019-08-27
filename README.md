@@ -1,5 +1,8 @@
 # Airbus-A380
 
+## Class Diagram
+ <img src="https://github.com/sumiie24/Airbus-A380/blob/master/class%20diagram/ice_detector_probe.pdf" />
+
 
 ## Features
 
