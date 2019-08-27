@@ -25,14 +25,18 @@ An Ice Detector is an optical transducer probe available for aviation and other 
 
 
 ## Requirements
-* Java SE Development Kit
-* IntelliJ IDEA
+* Java SE Development Kit 11.0.4
+* IntelliJ IDEA | Version: 2019.2
 * Notepad++
 * Firefox Quantum
 
 
 ## Contributing
 I welcome pull requests, bug fixes and issue reports. Before proposing a change, please discuss your change by raising an issue.
+
+
+## License
+License under the [MIT License](LICENSE).
 
 
 ## Developer 
