@@ -1,17 +1,20 @@
 # Airbus-A380
+A Project based on Component Based Software Engineering (CBSE) using JAVA. This project contains 62 components in which I worked on one component of Ice Detector Probe. 
+An ice detector is an optical transducer probe available for aviation and other applications where it is important to sense the formation of naturally occurring ICE in hazardous environments, and taking swift corrective action in response to its formation in a timely manner.
+<img src="https://github.com/sumiie24/Airbus-A380/blob/master/screenshots/airbus_a380.jpg" />
 
-## Class Diagram
- <img src="https://github.com/sumiie24/Airbus-A380/blob/master/class%20diagram/diagram_snap.PNG" />
+### All components
+ <img src="https://github.com/sumiie24/Airbus-A380/blob/master/screenshots/all_components.PNG" />
 
-
-## Features
+### Ice Detector Probe component class diagram
+ <img src="https://github.com/sumiie24/Airbus-A380/blob/master/screenshots/diagram_snap.PNG" />
 
 
 ## Screenshots 
-* Body
+* Body code
         <img src="https://github.com/sumiie24/Airbus-A380/blob/master/screenshots/body.png" />
 
-* Test Procedure
+* Test Procedure code
         <img src="https://github.com/sumiie24/Airbus-A380/blob/master/screenshots/test.png" />
 
 * GUI
